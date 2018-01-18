@@ -60,7 +60,7 @@ async def on_ready():
         await client.set_game(settings["default_game"])
 
     # --------------- INIT SERVERS ----------------------------------------- #
-    print("Welcome to " + term.cyan + "Discline" + term.normal + "!")
+    print("Welcome to " + term.cyan + "Discline++" + term.normal + "!")
     await print_line_break()
     await print_user()
     await print_line_break()

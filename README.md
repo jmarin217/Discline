@@ -1,11 +1,9 @@
-# ![logo_small.png](res/logo_small.png) Discline
+# ![logo_small.png](res/logo_small.png) Discline++
 ------------------------------
 
 ![screenshot_main.png](res/screenshot_main.png)
 
 __**Warning**__: Currently Linux/Mac only, it may be a while before support for Windows comes back
-
-**NOTE**: A total rewrite of Discline in curses/ncurses is planned. Possibly also in another language.
 
 ## How to use:
 -------------------------
@@ -42,9 +40,9 @@ __**Warning**__: Currently Linux/Mac only, it may be a while before support for 
 
 7. Launch with python3
 
-    `python3 Discline.py`
+    `python3 Discline++.py`
 
-    *(alternatively if you have python3.6 you can simply use `./Discline.py`)*
+    *(alternatively if you have python3.6 you can simply use `./Discline++.py`)*
 
 
 ### Current Features
